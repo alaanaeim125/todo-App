@@ -26,4 +26,8 @@ This application is build using [React Native CLI].
   <img src="screenshot/4.jpg" width="25%" />
   <img src="screenshot/5.jpg" width="25%" />
   <img src="screenshot/6.jpg" width="25%" />
+  <img src="screenshot/7.png" width="25%" />
+  <img src="screenshot/8.png" width="25%" />
+  <img src="screenshot/9.png" width="25%" />
+
 </p>

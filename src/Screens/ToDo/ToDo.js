@@ -54,7 +54,7 @@ const ToDo = () => {
   }, []);
 
   return (
-    <View style={{flex: 1, paddingBottom: 80}}>
+    <View style={styles.container}>
       <View>
         <Text style={styles.title}>Today's Tasks</Text>
         <FlatList

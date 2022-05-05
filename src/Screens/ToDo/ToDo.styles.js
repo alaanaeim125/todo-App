@@ -13,7 +13,6 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: 'bold',
     color: '#063970',
-    fontFamily: 'sans-serif-medium',
     marginVertical: 10,
   },
   titleTodo: {
